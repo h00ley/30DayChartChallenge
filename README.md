@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/63997681/176904348-c441529b-9c2c-4cc6-bd13-ca6c5a92913a.png)
 
-<p align="center"><em>Collection of my small contribution to the <a href="https://twitter.com/30DayChartChall">#30DayChartChallenge</a></em></p>
+## #30DayChartChallenge
 
 **Comparisons:**
 * [Day 1: Part-to-Whole](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/01_part_to_whole)
