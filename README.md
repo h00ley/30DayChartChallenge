@@ -3,16 +3,13 @@
 ## 
 
 **Comparisons:**
-* Day 1: Part-to-Whole
-  <img width="309" alt="Day 1" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
-  
 <details>
   <summary> Day 1: Part-to-Whole</summary>
   <img width="309" alt="Day 1" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
 </details>
  <details>
   <summary> Day 2: Pictorgram</summary>
-  <img width="309" alt="Day 2" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 2" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/2.%20Pictogram.png">
 </details>
 <details>
   <summary> Day 3: Historical</summary>
@@ -59,52 +56,81 @@
 
 **Relationships:**
 <details>
-  <summary> Day 13: Physical</summary>
-  <img width="309" alt="Day 7" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <summary> Day 13: Correlation</summary>
+  <img width="309" alt="Day 13" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
 </details>
  <details>
-  <summary> Day 14: Mountains</summary>
-  <img width="309" alt="Day 8" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <summary> Day 14: 3-Dimensional</summary>
+  <img width="309" alt="Day 14" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
 </details>
 <details>
-  <summary> Day 15: Statistics</summary>
-  <img width="309" alt="Day 9" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <summary> Day 15: Multivariate</summary>
+  <img width="309" alt="Day 15" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
 </details>
 <details>
-  <summary> Day 16: Experimental</summary>
-  <img width="309" alt="Day 10" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <summary> Day 16: Environment</summary>
+  <img width="309" alt="Day 16" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
 </details>
 <details>
-  <summary> Day 17: Circular</summary>
-  <img width="309" alt="Day 11" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <summary> Day 17: Connections</summary>
+  <img width="309" alt="Day 17" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
 </details>
 <details>
-  <summary> Day 12: Theme Day: The Economist</summary>
-  <img width="309" alt="Day 12" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <summary> Day 18: Data Day: OECD</summary>
+  <img width="309" alt="Day 18" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
 </details>
-* [Day 13: Correlation](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/13_correlation)
-* [Day 14: 3-Dimensional](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/14_space)
-* [Day 15: Multivariate](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/15_multivariate)
-* [Day 16: Environment](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/16_trees)
-* [Day 17: Connections](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/17_pop_culture)
-* [Day 18: Data Day: OECD](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/18_connections)
 
 **Timeseries:**
-* [Day 19: Global Change](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/19_global_change)
-* [Day 20: New Tool](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/20_upwards)
-* [Day 21: Down/Upwards](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/21_downwards)
-* [Day 22: Animation](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/22_animation)
-* [Day 23: Tiles](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/23_tiles)
-* [Day 24: Theme Day: Financial Times](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/24_monochrome)
+<details>
+  <summary> Day 19: Global Change</summary>
+  <img width="309" alt="Day 19" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+ <details>
+  <summary> Day 20: New Tool</summary>
+  <img width="309" alt="Day 20" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 21: Down/Upwards</summary>
+  <img width="309" alt="Day 21" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 22: Animation</summary>
+  <img width="309" alt="Day 22" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 23: Tiles</summary>
+  <img width="309" alt="Day 23" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 24: Theme Day: Financial Times</summary>
+  <img width="309" alt="Day 24" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
 
 **Uncertainties:**
-* [Day 25: Trend](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/25_demographic)
-* [Day 26: Interactive](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/26_trends)
-* [Day 27: Future](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/27_educational)
-* [Day 28: Deviations](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/28_future)
-* [Day 29: Storytelling](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/29_deviations)
-* [Day 30: Data Day: UN Population](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/30_3D)
-
+<details>
+  <summary> Day 25: Trend</summary>
+  <img width="309" alt="Day 25" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+ <details>
+  <summary> Day 26: Interactive</summary>
+  <img width="309" alt="Day 26" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 27: Future</summary>
+  <img width="309" alt="Day 27" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 28: Deviations</summary>
+  <img width="309" alt="Day 28" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 29: Storytelling</summary>
+  <img width="309" alt="Day 29" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 30: Data Day: UN Population</summary>
+  <img width="309" alt="Day 30" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
 
 ## Resources
 
