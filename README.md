@@ -1,24 +1,87 @@
 ![banner](https://user-images.githubusercontent.com/63997681/176904348-c441529b-9c2c-4cc6-bd13-ca6c5a92913a.png)
 
-## #30DayChartChallenge
+## 
 
 **Comparisons:**
-* [Day 1: Part-to-Whole](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/01_part_to_whole)
-* [Day 2: Pictorgram](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/02_pictogram)
-* [Day 3: Historical](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/03_historical)
-* [Day 4: Flora](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/04_magical)
-* [Day 5: Slope](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/05_slope)
-* [Day 6: Data Day: OWID](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/06_experimental)
+* Day 1: Part-to-Whole
+  <img width="309" alt="Day 1" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  
+<details>
+  <summary> Day 1: Part-to-Whole</summary>
+  <img width="309" alt="Day 1" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+ <details>
+  <summary> Day 2: Pictorgram</summary>
+  <img width="309" alt="Day 2" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 3: Historical</summary>
+  <img width="309" alt="Day 3" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 4: Flora</summary>
+  <img width="309" alt="Day 4" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 5: Slope</summary>
+  <img width="309" alt="Day 5" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 6: Data Day: OWID</summary>
+  <img width="309" alt="Day 6" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
 
 **Distributions:**
-* [Day 7: Physical](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/07_physical)
-* [Day 8: Mountains](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/08_animals)
-* [Day 9: Statistics](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/09_statistics)
-* [Day 10: Experimental](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/10_abstract)
-* [Day 11: Circular](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/11_circular)
-* [Day 12: Theme Day: The Economist](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/12_strips)
+<details>
+  <summary> Day 7: Physical</summary>
+  <img width="309" alt="Day 7" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+ <details>
+  <summary> Day 8: Mountains</summary>
+  <img width="309" alt="Day 8" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 9: Statistics</summary>
+  <img width="309" alt="Day 9" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 10: Experimental</summary>
+  <img width="309" alt="Day 10" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 11: Circular</summary>
+  <img width="309" alt="Day 11" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 12: Theme Day: The Economist</summary>
+  <img width="309" alt="Day 12" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
 
 **Relationships:**
+<details>
+  <summary> Day 13: Physical</summary>
+  <img width="309" alt="Day 7" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+ <details>
+  <summary> Day 14: Mountains</summary>
+  <img width="309" alt="Day 8" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 15: Statistics</summary>
+  <img width="309" alt="Day 9" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 16: Experimental</summary>
+  <img width="309" alt="Day 10" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 17: Circular</summary>
+  <img width="309" alt="Day 11" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
+<details>
+  <summary> Day 12: Theme Day: The Economist</summary>
+  <img width="309" alt="Day 12" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+</details>
 * [Day 13: Correlation](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/13_correlation)
 * [Day 14: 3-Dimensional](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/14_space)
 * [Day 15: Multivariate](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/15_multivariate)
