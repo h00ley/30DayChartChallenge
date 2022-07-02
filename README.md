@@ -140,6 +140,8 @@ An extensive list of tools can be found at [Visualising Data](https://www.visual
 
 ### Data
 
+[Data Sources Used for Charts](https://github.com/h00ley/30DayChartChallenge/blob/main/Data%20Sources.md)
+
 A starter kit of possible data sources:
 
 * [Google dataset search](https://datasetsearch.research.google.com/)
