@@ -13,123 +13,123 @@
 </details>
 <details>
   <summary> Day 3: Historical</summary>
-  <img width="309" alt="Day 3" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 3" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/3.%20Historical.png">
 </details>
 <details>
   <summary> Day 4: Flora</summary>
-  <img width="309" alt="Day 4" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 4" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/4.%20Flora.png">
 </details>
 <details>
   <summary> Day 5: Slope</summary>
-  <img width="309" alt="Day 5" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 5" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/5.%20Slope.png">
 </details>
 <details>
   <summary> Day 6: Data Day: OWID</summary>
-  <img width="309" alt="Day 6" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 6" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/6.%20OWID.png">
 </details>
 
 **Distributions:**
 <details>
   <summary> Day 7: Physical</summary>
-  <img width="309" alt="Day 7" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 7" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/7.%20Physical.png">
 </details>
  <details>
   <summary> Day 8: Mountains</summary>
-  <img width="309" alt="Day 8" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 8" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/8.%20Mountains.png">
 </details>
 <details>
   <summary> Day 9: Statistics</summary>
-  <img width="309" alt="Day 9" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 9" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/9.%20Statistics.png">
 </details>
 <details>
   <summary> Day 10: Experimental</summary>
-  <img width="309" alt="Day 10" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 10" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/10.%20Experimental.png">
 </details>
 <details>
   <summary> Day 11: Circular</summary>
-  <img width="309" alt="Day 11" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 11" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/11.%20Circular.png">
 </details>
 <details>
   <summary> Day 12: Theme Day: The Economist</summary>
-  <img width="309" alt="Day 12" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 12" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/12.%20The%20Economist.png">
 </details>
 
 **Relationships:**
 <details>
   <summary> Day 13: Correlation</summary>
-  <img width="309" alt="Day 13" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 13" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/13.%20Correlation.png">
 </details>
  <details>
   <summary> Day 14: 3-Dimensional</summary>
-  <img width="309" alt="Day 14" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 14" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/14.%203-Dimensional.png">
 </details>
 <details>
   <summary> Day 15: Multivariate</summary>
-  <img width="309" alt="Day 15" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 15" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/15.%20Multivariate.png">
 </details>
 <details>
   <summary> Day 16: Environment</summary>
-  <img width="309" alt="Day 16" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 16" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/16.%20Environment.png">
 </details>
 <details>
   <summary> Day 17: Connections</summary>
-  <img width="309" alt="Day 17" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 17" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/17.%20Connections.png">
 </details>
 <details>
   <summary> Day 18: Data Day: OECD</summary>
-  <img width="309" alt="Day 18" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 18" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/18.%20OECD.png">
 </details>
 
 **Timeseries:**
 <details>
   <summary> Day 19: Global Change</summary>
-  <img width="309" alt="Day 19" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 19" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/19.%20Global%20Change.png">
 </details>
  <details>
   <summary> Day 20: New Tool</summary>
-  <img width="309" alt="Day 20" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 20" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/20.%20New%20Tool.png">
 </details>
 <details>
   <summary> Day 21: Down/Upwards</summary>
-  <img width="309" alt="Day 21" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 21" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/21.%20Down:Upwards.png">
 </details>
 <details>
   <summary> Day 22: Animation</summary>
-  <img width="309" alt="Day 22" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 22" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/22.%20Animation.gif">
 </details>
 <details>
   <summary> Day 23: Tiles</summary>
-  <img width="309" alt="Day 23" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 23" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/23.%20Tiles.png">
 </details>
 <details>
   <summary> Day 24: Theme Day: Financial Times</summary>
-  <img width="309" alt="Day 24" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 24" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/24.%20Financial%20Times.png">
 </details>
 
 **Uncertainties:**
 <details>
   <summary> Day 25: Trend</summary>
-  <img width="309" alt="Day 25" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 25" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/25.%20Trend.png">
 </details>
  <details>
   <summary> Day 26: Interactive</summary>
-  <img width="309" alt="Day 26" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 26" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/26.%20Interactive.gif">
 </details>
 <details>
   <summary> Day 27: Future</summary>
-  <img width="309" alt="Day 27" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 27" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/27.%20Future.png">
 </details>
 <details>
   <summary> Day 28: Deviations</summary>
-  <img width="309" alt="Day 28" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 28" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/28.%20Deviations.png">
 </details>
 <details>
   <summary> Day 29: Storytelling</summary>
-  <img width="309" alt="Day 29" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 29" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/29.%20Storytelling.png">
 </details>
 <details>
   <summary> Day 30: Data Day: UN Population</summary>
-  <img width="309" alt="Day 30" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/1.%20Part-to-Whole.png">
+  <img width="309" alt="Day 30" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/30.%20UN%20Population.gif">
 </details>
 
 ## Resources
