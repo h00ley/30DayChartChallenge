@@ -131,6 +131,13 @@
   <summary> Day 30: Data Day: UN Population</summary>
   <img width="309" alt="Day 30" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/30.%20UN%20Population.gif">
 </details>
+<details>
+  <summary> Extras</summary>
+  <img width="309" height="auto" alt="1" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/Extra_1.png">
+  <img width="309" height="auto" alt="2" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/Extra_2.png">
+  <img width="309" height="auto" alt="3" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/Extra_3.png">
+  <img width="309" height="auto" alt="4" src="https://github.com/h00ley/30DayChartChallenge/blob/main/Charts/Extra_4.png">
+</details>
 
 ## Resources
 
